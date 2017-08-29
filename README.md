@@ -19,5 +19,7 @@ Other nice to haves:
 
 This solution provides all these points and is easy to use in your own FileMaker solutions. Works with FileMaker 14 and up.
 
+Note that the current version does not support solutions requiring multiple windows. This is a known limitation in the current version.
+
 Read more here:
 http://www.soliantconsulting.com/blog/
