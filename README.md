@@ -8,7 +8,6 @@ There have been other solutions over time, although not all have met all require
  Allow manually switching layouts and stay up to date. 
  No require any plugins. 
  No additional schema needed. 
- Work safely in multiple windows. 
  Handles an arbitrarily large enough number of layouts. 
  Uses all native FileMaker objects and functionality. 
 
@@ -19,7 +18,7 @@ Other nice to haves:
 
 This solution provides all these points and is easy to use in your own FileMaker solutions. Works with FileMaker 14 and up.
 
-Note that the current version does not support solutions requiring multiple windows. This is a known limitation in the current version.
+Note that the current version does not support solutions requiring multiple window functionality. This is a known limitation in the current version.
 
 Read more here:
 http://www.soliantconsulting.com/blog/
