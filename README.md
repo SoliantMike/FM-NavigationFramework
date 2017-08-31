@@ -4,12 +4,14 @@ Wouldn't it be nice to have a button bar that you could have on every layout tha
 
 There have been other solutions over time, although not all have met all requirements that I would want of such a tool. Those would include, in no particular order: 
 
- Work in Browse and Find mode. 
- Allow manually switching layouts and stay up to date. 
- No require any plugins. 
- No additional schema needed. 
- Handles an arbitrarily large enough number of layouts. 
- Uses all native FileMaker objects and functionality. 
+ • Work in Browse and Find mode. 
+ • Use Themes and Styles to modify appearance.
+ • Allow manually switching layouts and stay up to date. 
+ • Will work with multiple windows.
+ • No require any plugins. 
+ • No additional schema needed. 
+ • Handles an arbitrarily large enough number of layouts. 
+ • Uses all native FileMaker objects and functionality. 
 
 Other nice to haves: 
 
@@ -18,7 +20,6 @@ Other nice to haves:
 
 This solution provides all these points and is easy to use in your own FileMaker solutions. Works with FileMaker 14 and up.
 
-Note that the current version does not support solutions requiring multiple window functionality. This is a known limitation in the current version.
 
 Read more here:
 http://www.soliantconsulting.com/blog/
