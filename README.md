@@ -20,6 +20,7 @@ Other nice to haves:
 
 This solution provides all these points and is easy to use in your own FileMaker solutions. Works with FileMaker 14 and up.
 
+Note: If you wish to support multiple windows if a user manually opens another window, you will need to add a script trigger to the "OnWindowOpen" trigger from the File Options dialog. 
 
 Read more here:
 http://www.soliantconsulting.com/blog/
