@@ -24,4 +24,4 @@ Note: If you wish to support multiple windows if a user manually opens another w
 This is now the default behavior, so will run after the initial script trigger to open the file. It is then unnecessary to run in that script, as it runs in the second script trigger.
 
 Read more here:
-http://www.soliantconsulting.com/blog/
+https://www.soliantconsulting.com/blog/2017/10/filemaker-navigation-bar
